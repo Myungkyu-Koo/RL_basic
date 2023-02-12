@@ -105,7 +105,7 @@ class ReinforceAgent:
 
 
 if __name__ == "__main__":
-    # 환경과 에이전트의 생성
+    # 환경과 에이전트 생성
     env = Env()
     agent = ReinforceAgent()
 
